@@ -1,0 +1,49 @@
+h1 {
+    font-size: 64px;
+    text-align: center;
+    color: lime;
+}
+
+h2{
+    text-align: right;
+    color: hotpink;
+}
+
+p {
+    margin-top: 100px;
+}
+
+p i
+{
+    font-size: 48px;
+    color: blue;
+}
+
+#sad {
+    color: blue;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.menu {
+    text-decoration: none;
+    text-align: center;
+}
+
+.test {
+    font-size: 64px;
+    font-family: 'Dohyeon';
+    color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@font-face {
+    src: url("../fonts/BMDOHYEON_otf.otf");
+    font-family: "Dohyeon";
+}
